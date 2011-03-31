@@ -1,8 +1,8 @@
 name: rswt
-summary: "TODO: Summary"
-description: "TODO: Description"
+summary: "A thin jruby wrapper for SWT"
+description: "A thin jruby wrapper for SWT (mainly just for loading the jars in a structured way)"
 license: MIT
-authors: pts
+authors: Patrik Sundberg 
 homepage: http://rubygems.org/gems/rswt
 has_yard: true
 
